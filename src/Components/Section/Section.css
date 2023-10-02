@@ -93,3 +93,8 @@
     font-weight: 100;
     color: hsl(233, 8%, 79%);
 }
+@media(max-width: 375px) {
+    .container {
+        margin-top: 0;
+    }
+}
